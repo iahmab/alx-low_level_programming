@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <holberton.h>
 /**
  * main - entry point
  *
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char *sh = "Abraham";
+	char *sh = "Holberton";
 
 	while (*sh)
 	{
