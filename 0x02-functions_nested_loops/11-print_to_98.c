@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_to_98 - a function that prints to 98
+ * 11-print_to_98 - a function that prints to 98
  *
  * Return: always 0
  */
