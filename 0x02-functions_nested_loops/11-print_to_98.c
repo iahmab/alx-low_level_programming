@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * 11-print_to_98 - a function that prints all natural numbers from n to 98
+ * 11-print_to_98.c - a function that prints all natural numbers from n to 98
  * user input's number prints to 98, regardless < 98 or > 98
  * @n: number input
  * Return: always 0
