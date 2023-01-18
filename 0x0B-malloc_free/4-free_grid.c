@@ -6,6 +6,7 @@
  * free_grid - function to free memory
  * @grid: pointer to grid of int type
  * @height: int type
+ *
  * Return: clean up memory
  */
  
